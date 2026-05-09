@@ -6,18 +6,16 @@ body{
 }
 #menu {
     background-color: beige;
+    border-collapse: collapse;
+    margin: 0 auto;          /* centre le tableau */
     height: 36px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-    padding: 0;
-    margin: 0 auto;
 }
 
-#menu li {
-    margin: 0 15px;
+#menu th {
+    padding: 0 20px;         /* espace horizontal */
     color: black;
     font-weight: bold;
+    text-align: center;
+    height: 36px;
 }
 
