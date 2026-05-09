@@ -5,6 +5,8 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-table{
-  border : 2px solid black;
-}
+#menu{
+  height: 36px;
+	background-color: beige;
+	float: center;
+	color: white;
