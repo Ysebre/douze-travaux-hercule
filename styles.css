@@ -5,9 +5,20 @@ body{
   	background-repeat: no-repeat;
   	background-attachment: fixed;
 }
-#menu{
-	height: 36px;
-	background-color: beige;
-	float: center;
-	color: white;
+#menu {
+    background-color: beige;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
 }
+
+#menu li {
+    margin: 0 15px;
+    color: black;
+    font-weight: bold;
+}
+
