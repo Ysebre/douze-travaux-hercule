@@ -1,5 +1,6 @@
 body{
-  background-image : url("fond.jpg");
+  background-image : url(fond.jpg);
+  background-color : beige;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
