@@ -1,4 +1,7 @@
 body{
   font-family : arial;
-  background-image : url("fond.jpg")
+  background-image : url("fond.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
